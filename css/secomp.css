@@ -585,3 +585,8 @@ div#maincontent {
   position: relative;
   float: none;
 }
+
+#patrocinadores .flex-row {
+  display: flex;
+  justify-content: center;
+}
